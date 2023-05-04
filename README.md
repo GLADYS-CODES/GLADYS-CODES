@@ -10,6 +10,5 @@
 
      - 💬 Ask me about reactjs, ruby on rail
      
-[![My stats github stats](https://github-readme-stats.vercel.app/api?username=GLADYS-CODES&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 
 -->
